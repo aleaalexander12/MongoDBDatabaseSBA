@@ -25,4 +25,3 @@ commentSchema.index({text: 1})
 
 export default mongoose.model("Comment", commentSchema);
 
-
